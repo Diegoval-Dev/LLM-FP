@@ -1,0 +1,52 @@
+# Archivos de entorno virtual
+venv/
+.env/
+*.env
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración del entorno
+.Python
+.ipynb_checkpoints/
+.envrc
+
+# Archivos de log y salida
+*.log
+*.out
+*.err
+
+# Archivos de caché
+*.egg-info/
+.eggs/
+*.egg
+build/
+dist/
+pip-wheel-metadata/
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Archivos de pruebas
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.swp
