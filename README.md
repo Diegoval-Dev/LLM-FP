@@ -41,7 +41,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 Launch the Streamlit application:
 
 ```bash
-streamlit run <script_name>.py
+streamlit run main.py
 ```
 
 ## How to Use
@@ -95,3 +95,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 - OpenAI for providing the GPT-4 model used in this project.
 - Streamlit for making it easy to build interactive UIs.
+
+## video
+
